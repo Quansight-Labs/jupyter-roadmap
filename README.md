@@ -24,6 +24,9 @@ All the assets from our internal workshops can be found in the [workshops direct
 
 - [March 2021](./workshops/March-2021)
 - [April 2021](./workshops/April-2021)
+
+You can also access the workshops notes in the repo's issues under the label: [![type: minutes 📝](https://img.shields.io/badge/-type:%20Minutes%20📝-c5def5.svg)](https://github.com/Quansight-Labs/jupyter-roadmap/labels/type%3A%20Minutes%20%F0%9F%93%9D)
+
 ### :label: Roadmap and decisions
 
 
