@@ -2,7 +2,9 @@
 name: Project Proposal
 about: This template should be used to create a new Jupyter-related project.
 title: 'Jupyter Project Proposal: <Name of Project>'
-
+labels:
+    - "type: Project 🗂"
+    - "type: Project management 🦄"
 ---
 
 <!--
