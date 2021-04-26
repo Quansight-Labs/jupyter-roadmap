@@ -1,9 +1,10 @@
 ---
 name: Working group minutes
 about: Use this template to track Jupyter workshops/hands-on sections
-title: Jupyter Workshop - {{ date | date('dddd, MMMM Do') }}"
+title: Jupyter Workshop - <date>
 labels: 
   - "workshop 🦄"
+  - "type: Minutes 📝"
 
 ---
 
